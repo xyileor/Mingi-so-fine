@@ -11730,3 +11730,7 @@ html {
 .img-animate:hover {
   transform: scale(1.05); /* Membesarkan gambar sedikit saat hover */
 }
+
+.table {
+  background-color:  #84f89d; /* Warna hijau pudar */
+}
